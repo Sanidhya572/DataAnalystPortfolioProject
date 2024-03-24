@@ -2,7 +2,10 @@
 
 Welcome to our latest Power BI project! 🚀
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot]
+![image](https://github.com/Sanidhya572/DataAnalystPortfolioProject/assets/84410647/6c2d60b6-93b6-4810-b6ca-67209aa21d4a)
+
+
 
 ## Overview
 This project showcases our expertise in leveraging Power BI alongside Bright Data and Python Pandas to create insightful dashboards. We've enriched our data with cricket statistics from ESPN Cricinfo, providing stakeholders with valuable insights for data-driven decision-making.

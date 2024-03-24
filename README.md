@@ -2,8 +2,7 @@
 
 Welcome to our latest Power BI project! 🚀
 
-![Dashboard Screenshot]
-![image](https://github.com/Sanidhya572/DataAnalystPortfolioProject/assets/84410647/6c2d60b6-93b6-4810-b6ca-67209aa21d4a)
+![image](https://github.com/Sanidhya572/DataAnalystPortfolioProject/assets/84410647/9b55caf1-5903-4e96-a688-d02171e53d03)
 
 
 

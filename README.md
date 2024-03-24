@@ -1,7 +1,8 @@
-# DataAnalystPortfolioProject
 # Power BI Project
 
 Welcome to our latest Power BI project! 🚀
+
+![Dashboard Screenshot](screenshot.png)
 
 ## Overview
 This project showcases our expertise in leveraging Power BI alongside Bright Data and Python Pandas to create insightful dashboards. We've enriched our data with cricket statistics from ESPN Cricinfo, providing stakeholders with valuable insights for data-driven decision-making.
@@ -28,4 +29,3 @@ This project showcases our expertise in leveraging Power BI alongside Bright Dat
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
